@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.page{
+    background-color: rgb(9, 164, 164);
+    height: 150px;
+    display: flex;
+}
+.my-pic{
+    height: 140px;
+    width: 140px;
+    margin-left: 40px;
+    margin-top: 3px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.container .page h1{
+    font-weight: 600;
+}
+.container .page h3{
+    font-weight: 500;
+}
+.container .page h5{
+    font-weight: 300;
+    margin-right: 40px;
+}
+.intro{
+    margin-top: 2%;
+    margin-left: 5%;
+    color: aliceblue;
+}
+.edu{
+    margin-top: 2%;
+    margin-left: 0px;
+    background-color: rgb(9, 164, 164);
+    font-weight: 600;
+}
+.edu h3{
+    margin-left: 40px;
+    color: aliceblue;
+}
+.para{
+    margin-left: 40px;
+    font-weight: 400;
+}
+.para1{
+    margin-left: 40px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
